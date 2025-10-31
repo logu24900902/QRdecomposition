@@ -23,6 +23,8 @@ To implement QR decomposition algorithm using the Gram-Schmidt method.
 
 ## Program:
 ### Gram-Schmidt Method
+### NAME : LOGU R
+### REG NO: 212224230141
 ```Python
 
 import numpy as np
