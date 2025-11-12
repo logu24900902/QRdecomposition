@@ -48,7 +48,6 @@ def QR_Decomposition(A):
 a = np.array(eval(input()))
 QR_Decomposition(a)
 ```
-
 ## Output
 <img width="1217" height="490" alt="image" src="https://github.com/user-attachments/assets/c72f1c07-2b8b-402b-819e-e3173f2ab9b6" />
 
